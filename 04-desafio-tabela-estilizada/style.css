@@ -1,0 +1,27 @@
+table {
+    font-size: 22px;
+    color: aliceblue;
+    font-family: "PT Serif", sans-serif;
+}
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+}
+
+.linhas-tabela {
+    background-color: #424250;
+}
+
+table, th, td {
+    padding: 8px;
+}
+
+h2 {
+    margin: 30px 10px 10px 8px;
+    box-sizing: border-box;
+    font-weight: bolder;
+}

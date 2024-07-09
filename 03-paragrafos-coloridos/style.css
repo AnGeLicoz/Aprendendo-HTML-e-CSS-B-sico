@@ -1,0 +1,15 @@
+.texto {
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo-padrao {
+  background-color:#F5F5F5;
+}
+
+.paragrafo-destacado {
+  background-color: #F0CCE2;
+}
+
+/* "texto" é uma classe adicional que facilita a estilização para futuros parágrafos, e "paragrafo-padrao" e "paragrafo-destacado" são dois tipos de estilização diferentes que já estão prontos caso precisar fazer mais parágrafos com essas estilizações
+*/
