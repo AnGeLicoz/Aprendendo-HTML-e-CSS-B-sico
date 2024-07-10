@@ -6,5 +6,5 @@ Exercícios do DevQuest para formação de novos programadores
 - CSS
 
 ## Como usar
-Abrir main.html
-selecionar o exercício
+- Abrir index.html, que está fora das pastas
+- Selecionar um exercício para analisar
